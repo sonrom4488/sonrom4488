@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thesonyaroma
+- 👀 I’m interested in integrating Computer Science with Psychology
+- 🌱 I’m currently learning Racket
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me sonrom4488@gmail.com
